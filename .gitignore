@@ -1,0 +1,7 @@
+endian
+.#*
+*.o
+*.a
+*.log
+*.tmp
+*.dSYM
